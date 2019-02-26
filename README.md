@@ -3,7 +3,7 @@ Main goal of this project was to detect and track road lane only with one camera
 ### Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Cr9Jy1n9ZdU
 " target="_blank"><img src="http://img.youtube.com/vi/Cr9Jy1n9ZdU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+ width="1280" height="720" border="10" /></a>
 ### Dependencies
 * Python >= 3.6 
 * OpenCV
@@ -11,6 +11,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Pipeline
 1. Warp perspective to "bird-eye view"
+<img src=".content/img_1.png" width="1280" height="720" border="10" />
 2. Detect pixels of lane on the image:
     * Get saturation channel
     * Get yellow and white pixels of image
