@@ -11,7 +11,7 @@ Main goal of this project was to detect and track road lane only with one camera
 
 ### Pipeline
 1. Warp perspective to "bird-eye view"
-<img src=".content/img_1.png" width="1280" height="720" border="10" />
+<img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_1.png" width="1280" height="720" border="10" />
 2. Detect pixels of lane on the image:
     * Get saturation channel
     * Get yellow and white pixels of image
