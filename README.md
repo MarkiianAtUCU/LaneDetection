@@ -22,7 +22,7 @@ Original image
     * Threshold image, to get rid of unnecessary details
 3. Find delta of 10 frames, to get info about movement
 4. Dilate image
-    <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_5.png" width="40%" border="10"/>
+    <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/Step_2.png" width="40%" border="10"/>
 
 5. Detect Points on lanes
     * Threshold image && Draw histogrames
