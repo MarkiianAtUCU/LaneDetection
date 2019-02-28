@@ -15,6 +15,8 @@ Original image
 <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_0.png"/>
 1. Warp perspective to "bird-eye view"
 <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_1.png" width="300" height="300" border="10" />
+
+
 2. Detect pixels of lane on the image:
     * Get saturation channel
     * Get yellow and white pixels of image
@@ -22,8 +24,7 @@ Original image
     * Threshold image, to get rid of unnecessary details
 3. Find delta of 10 frames, to get info about movement
 4. Dilate image
-*
-    <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/Step_2.png" width="40%" border="10"/>
+    <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/Step_2.png"/>
 
 5. Detect Points on lanes
     * Threshold image && Draw histogrames
