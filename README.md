@@ -2,8 +2,7 @@
 Main goal of this project was to detect and track road lane only with one camera
 ### Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Cr9Jy1n9ZdU
-" target="_blank"><img src="http://img.youtube.com/vi/Cr9Jy1n9ZdU/0.jpg" 
- width="640" height="320" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/Cr9Jy1n9ZdU/0.jpg"/></a>
 ### Dependencies
 * Python >= 3.6 
 * OpenCV
@@ -33,7 +32,9 @@ Original image
 <img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/Step_3.png" />
 
 6. Fit 2 power polynome
+<img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_10.jpg" width="300" height="300" border="10" />
 7. Warp perspective back
+<img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_11.jpg"/>
 
 License
 ----
