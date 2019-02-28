@@ -29,8 +29,10 @@ Original image
 5. Detect Points on lanes
     * Threshold image && Draw histogrames
     * Mark points on road marking and add complement points
+
+<img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/Step_3.png" />
+
 6. Fit 2 power polynome
-<img src="https://github.com/MarkiianAtUCU/LaneDetection/blob/master/content/img_11.png" width="300" height="300" border="10" />
 7. Warp perspective back
 
 License
